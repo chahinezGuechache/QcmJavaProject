@@ -1,0 +1,4 @@
+MonInterface, MonInterface1 et MonInterface2 sont des interfaces Java.
+MonInterface mavariable; // (1)
+MonInterface1, MonInterface2 mavariable_multitype; //(2)
+

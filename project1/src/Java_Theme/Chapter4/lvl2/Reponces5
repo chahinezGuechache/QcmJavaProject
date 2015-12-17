@@ -1,0 +1,4 @@
+Lorsqu'une méthode ne renvoie aucune valeur, on ajoute le mot-clé void à son entête
+Une variable encapsulée peut interagir avec le monde extérieur directement
+Une variable d'instance déclarée avec le modificateur de visibilité private n'est accessible qu'à partir des instances de la classe
+La visibilité d'une variable et sa portée sont deux synonymes

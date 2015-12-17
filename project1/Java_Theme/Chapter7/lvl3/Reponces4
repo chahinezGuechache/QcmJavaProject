@@ -1,0 +1,4 @@
+Une interface ne peut contenir que des déclarations de méthodes abstraites ou de constantes
+Une interface implémente une classe
+Un objet peut être une instance d'une interface
+Une interface ne peut contenir que des déclarations de méthodes abstraites

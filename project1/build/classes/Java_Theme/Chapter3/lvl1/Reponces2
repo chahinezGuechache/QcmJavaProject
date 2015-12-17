@@ -1,0 +1,4 @@
+Il est impossible de convertir un Integer en Double
+d = (Double) i;
+d = (Double) (Object) i;
+d = i;

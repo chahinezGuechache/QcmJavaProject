@@ -1,0 +1,4 @@
+NBPAGES est une constante de type entier
+pageCourante est une constante de type entier
+On peut changer la valeur de NBPAGES au cours du programme
+pageCourante est une constante de type flottant

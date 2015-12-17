@@ -1,0 +1,4 @@
+Certains appels de méthodes sont des expressions
+Tous les appels de méthodes sont des expressions
+Les variables déclarées dans les méthodes sont des variables globales
+Les variables déclarées dans les méthodes ne sont pas des variables locales

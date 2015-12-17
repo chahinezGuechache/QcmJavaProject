@@ -1,0 +1,4 @@
+x.length vaut 20
+x.length vaut 19
+x[1] vaut 1
+x[1] vaut null

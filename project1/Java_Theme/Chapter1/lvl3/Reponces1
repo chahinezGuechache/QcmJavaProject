@@ -1,0 +1,4 @@
+On ne peut pas spécifier la taille de la liste lors de sa création
+ArrayList list = new ArrayList<3>();
+ArrayList list = new ArrayList (3);
+ArrayList[] list = new ArrayList[3];

@@ -1,0 +1,12 @@
+Sélectionnez les instructions qui produisent une erreur lors de l'exécution: 
+public class Animal{}
+public class Mammal extends Animal{}
+public class Test
+{
+    public static void main (String[] args)
+    {
+        Object[] tab = new Animal[5];
+        // À compléter
+    }
+}
+

@@ -1,0 +1,4 @@
+Il manque le type de retour
+Rien du tout, c'est correct
+Il manque le modificateur private
+On ne peut pas renvoyer directement a+b, il faut créer une variable locale, y placer le résultat de a+b puis la renvoyer

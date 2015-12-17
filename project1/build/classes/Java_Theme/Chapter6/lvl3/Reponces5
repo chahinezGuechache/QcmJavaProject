@@ -1,0 +1,4 @@
+Le garbage collector peut être invoqué explicitement en utilisant une méthode de la classe System
+Le garbage collector peut être invoqué explicitement en utilisant une méthode de la classe GarbageCollector
+Comparer deux variables de type objet avec l'opérateur == compare le contenu des objets référencés par les variables
+Le garbage collector est un type primetif

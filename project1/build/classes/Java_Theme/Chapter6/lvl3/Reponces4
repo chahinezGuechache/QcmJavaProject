@@ -1,0 +1,4 @@
+En plus des variables de type primitif et de type objet, il existe les variables de type énuméré
+Étant donné qu'une classe peut implémenter plusieurs interfaces, on peut créer des variables dites multi-type 
+En ligne (1), mavariable ne peut contenir que des instances de l'interfaceMonInterface
+les interfaces sont des packages

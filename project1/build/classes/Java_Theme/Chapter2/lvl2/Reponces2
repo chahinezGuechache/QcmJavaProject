@@ -1,0 +1,4 @@
+Un commentaire associé à une instruction doit expliquer celle-ci :Un commentaire doit apporter une information supplémentaire par rapport à l'instruction commentée. Il ne faut pas juste paraphraser l'instruction
+Un commentaire associé à une instruction doit paraphraser celle-ci
+Lors de l'exécution d'un programme, les commentaires sont affichés à l'écran Les commentaires sont complètement ignorés lors de l'exécution, ils permettent juste de rendre le code source du programme plus clair et lisible
+Un programme sans commentaires ne peut être exécuté par l'ordinateur

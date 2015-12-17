@@ -1,0 +1,3 @@
+Cette déclaration est faite dans une classe Person. Où cette variable ne sera-t'elle pas visible ?
+ private int age;
+

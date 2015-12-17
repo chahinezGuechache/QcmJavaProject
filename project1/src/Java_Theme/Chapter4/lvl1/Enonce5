@@ -1,0 +1,2 @@
+Voici un constructeur de la classe Person, y-a-t'il un quelconque problème ? 
+public Person (String n) { name = n; return; }

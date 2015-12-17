@@ -1,0 +1,4 @@
+Un identificateur est un mot qui figure dans un programme ailleurs que dans un commentaire ou dans une chaine de caractères
+Les identificateurs String, StRiNg et string sont équivalents (ils peuvent être utilisés indifféremment)
+Les identificateurs choisis par l'auteur d'un programme peuvent être choisis librement
+L'identificateur qui désigne le nom d'une classe doit obligatoirement commencer par une majuscule

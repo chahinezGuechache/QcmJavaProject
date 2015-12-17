@@ -1,0 +1,17 @@
+Qu'affiche le programme suivant ?
+ class A{
+ public String f ( ) {return "A" ; }
+ }
+ class B extends A{
+ public String f ( ) {return "B" ; }
+ }
+ class Test {
+ public static void main ( String [ ] args ){
+ A a1 = new A( ) ;
+ A a2 = new B( ) ;
+ B b = new B( ) ;
+ System.outprintln(a1.f( ) ) ;
+ System.outprintln(a2.f( ) ) ;
+ System.outprintln(b.f( ) ) ;
+   }
+ }

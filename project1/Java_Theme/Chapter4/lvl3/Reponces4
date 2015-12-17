@@ -1,0 +1,4 @@
+La portée d'une variable d'instance s'étend à tout le corps de la classe
+Toutes les variables déclarées dans une classe sont des variables d'instance
+La portée d'une variable d'instance s'étend uniquement aux corps des méthodes de la classe
+Tous les objets d'une même classe partagent les mêmes variables d'instance, si un objet change la valeur de la variable, le changement est répercuté chez toutes les instances de la classe de cet objet

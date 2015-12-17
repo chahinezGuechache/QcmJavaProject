@@ -1,0 +1,10 @@
+qu'affiche ce programme :
+public class Counter{
+  public Counter(){
+    System.out.println("Hellow");
+   }
+}
+  public static void main(String[]args){
+    
+   }
+ 

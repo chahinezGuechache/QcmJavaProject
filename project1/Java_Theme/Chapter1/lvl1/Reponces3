@@ -1,0 +1,4 @@
+Je peux créer un tableau de taille nulle : int[] tab = new int[0];
+Je peux créer un tableau de taille négative : int[] tab = new int[-1];
+Pour obtenir la taille d'un tableau t, il faut pas accéder à la variable t.length
+Pour obtenir la taille d'un tableau t, il faut utiliser la méthode t.length()

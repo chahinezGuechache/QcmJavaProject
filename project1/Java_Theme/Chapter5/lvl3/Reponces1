@@ -1,0 +1,4 @@
+public Ex1a(int a) { this(); this.a = a;}
+public Exa(int a) { this(); this.a = a;}
+public Exa() { this(); this.a = a;}
+public Exa() { System.out.println(a); }

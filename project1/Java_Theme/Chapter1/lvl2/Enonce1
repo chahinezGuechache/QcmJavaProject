@@ -1,0 +1,10 @@
+Soit les instructions suivantes s'exécutant l'une après l'autre : (si une instruction produit une erreur, on fait comme si le programme continuait en ayant ignoré cette instruction) 
+1 int[] t = new int[5];
+2 int[] s;
+3
+4 t[5] = 5;
+5 s[2] = 0;
+6 t[0] = 4;
+7 s = t;
+8 s[4] = t[0];
+

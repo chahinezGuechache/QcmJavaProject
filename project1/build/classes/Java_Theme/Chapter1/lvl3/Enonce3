@@ -1,0 +1,2 @@
+Soit la classe ChessPiece qui représente une pièce d'un jeu d'échec et la classe Pawn qui représente un pion. La classe Pawn étend bien sûr la classe ChessPiece. Quel type d'objet ne pourrais-je pas mettre dans le tableau suivant ? 
+Object[] tt = new ChessPiece[2];

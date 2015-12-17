@@ -1,0 +1,4 @@
+Une classe peut implementer plusieurs interfaces mais doitetendre une seule classe
+Une classe peut implementer plusieurs classes mais doit etendre une seule interface
+Une classe peut implementer plusieurs classes et peut etendre plusieurs interfaces
+Une classe doit implementer une seule interface et etendre une seule classe 

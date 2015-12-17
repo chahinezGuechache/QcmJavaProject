@@ -1,0 +1,9 @@
+qu'affiche ce programme :
+public class Counter{
+  public Counter(String str){
+    System.out.println(str);
+   }
+  public static void main(String[]args){
+    Counter obj = new Counter();
+   }
+ }

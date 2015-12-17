@@ -1,0 +1,4 @@
+Une classe qui implémente une interface doit contenir une définition pour toutes les méthodes abstraites déclarées dans l'interface
+Une classe qui implémente une interface ne peut contenir de définition que pour certaines méthodes abstraites déclarées dans l'interface
+Une classe implémente 0 ou 1 interface
+On peut pas déclarer une variable avec comme type une interface

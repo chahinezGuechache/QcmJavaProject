@@ -1,0 +1,23 @@
+Soient les deux classes Pair qui représente une paire d'entiers et OrderedPair qui représente une paire ordonnée d'entiers. 
+Soit l'instruction OrderedPair p = new OrderedPair (9, 2);
+
+ public class Pair
+ {
+   private int x, y;
+   public Pair (int x, int y)
+   {
+        this.x = x;
+        this.y = y;
+    }
+    public int getX(){return x;}
+    public int getY(){return y;}
+ }
+ public class OrderedPair extends Pair
+ {
+    public OrderedPair (int x, int y)
+    {
+        super (Math.max (x, y), Math.min (x, y));
+    }
+ }
+
+ 

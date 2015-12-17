@@ -1,0 +1,4 @@
+La ligne 5 provoque une erreur d'exécution
+La ligne 6 provoque une erreur d'exécution
+La ligne 4 affecte la valeur entière 5 à la cinquième case du tableau t
+La ligne 5 affecte la valeur entière 0 à la deuxième case du tableau s

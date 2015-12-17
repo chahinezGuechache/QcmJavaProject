@@ -1,0 +1,4 @@
+Aucun problème, return permet simplement de quitter la méthode
+On ne peut pas utiliser return dans un constructeur puisqu'il ne doit rien renvoyer
+Un constructeur doit renvoyer une instance, il faut donc mettre return new Person (n);
+Il faut explicitement mettre void si l'on veut pouvoir faire return

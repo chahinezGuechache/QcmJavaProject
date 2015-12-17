@@ -1,0 +1,4 @@
+Pour appeler la méthode getX, on peut faire une conversion : ((Pair) p).getX();
+L'objet référencé par la variable p ne possède aucune variable d'instance
+Pour appeler la méthode getX, on doit faire une conversion : ((Pair) p).getX();
+Le constructeur de la classe OrderedPair aurait pu se réécrire comme : if (x <= y) super (x, y); else super (y, x);

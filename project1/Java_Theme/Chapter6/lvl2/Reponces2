@@ -1,0 +1,4 @@
+Toutes les instances d'une classe partagent une unique copie des variables statiques
+Chaque instance d'une classe possède sa propre copie des variables statiques
+Il est impossible d'accéder à la valeur d'une variable statique à partir d'une variable de type objet référençant un objet, instance de ladite classe
+Une méthode statique ne peut accéder aux variables d'instance que si elles sont déclarées public

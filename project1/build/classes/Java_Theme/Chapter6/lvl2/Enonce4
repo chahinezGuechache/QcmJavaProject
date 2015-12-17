@@ -1,0 +1,4 @@
+Que va afficher à la console le programme suivant ?
+Integer nb1 = new Integer (4);
+Integer nb2 = new Integer (4);
+System.out.println (nb1 == nb2);

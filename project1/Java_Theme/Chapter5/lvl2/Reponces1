@@ -1,0 +1,4 @@
+est toujours généré par le compilateur si aucun constructeur n'est cree par le developeur
+est toujours généré par le compilateur
+est toujours créé par le compilateur si la classe posséde au moins une sous-classe
+est toujours private

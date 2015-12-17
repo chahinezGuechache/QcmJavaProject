@@ -1,0 +1,7 @@
+1 List<String> list = new ArrayList<String>();
+2 list.add ("premier");
+3 list.add ("second");
+4 list.add (1, "troisième");
+5 list.add (3, "quatrième");
+6 list.add (2, "cinquième");
+7 System.out.println (list);

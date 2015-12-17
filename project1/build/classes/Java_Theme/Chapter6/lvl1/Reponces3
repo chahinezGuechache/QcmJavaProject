@@ -1,0 +1,4 @@
+int i = 4;
+int i = 4.0;
+int i = "4";
+double i = 1; 

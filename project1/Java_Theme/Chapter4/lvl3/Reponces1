@@ -1,0 +1,4 @@
+Elle se base sur les types des paramètres
+Elle les essaie toute une à une et prend la première qui fonctionne
+Elle ne devine pas, il faut lui spécifier lorsqu'on compile le code
+On indique le numéro de la méthode que l'on veut invoquer

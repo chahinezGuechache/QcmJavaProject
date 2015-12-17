@@ -1,0 +1,12 @@
+Le listing suivant montre une interface et une classe qui l'implémente. Quelle instruction n'est pas possible parmi les suivantes ?
+public interface MobilePhoneIF
+{
+    public void call (PhoneNumber nb);
+}
+ 
+public class Nokia3310 implements MobilePhoneIF
+{
+    public void call (PhoneNumber nb){}
+ 
+    public void connectToWap(){}
+}

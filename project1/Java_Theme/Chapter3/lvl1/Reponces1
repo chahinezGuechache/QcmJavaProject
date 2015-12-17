@@ -1,0 +1,4 @@
+Une classe peut étendre une autre classe
+Une classe peut étendre une interface
+Une interface peut étendre une classe
+super est une référence vers une instance de la super-classe

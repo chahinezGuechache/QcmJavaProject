@@ -1,0 +1,4 @@
+Les paramètres formels ont la même portée que les variables locales
+Tous les constructeurs doivent être déclaré comme void étant donné qu'ils ne renvoient rien
+Tous les constructeurs doivent renvoyer un objet du même type de la classe dans laquelle ils sont déclarés étant donné qu'un constructeur renvoie une instance de la classe à l'aide des instructions return et new
+Une méthode d'une classe ne peut ni renvoyer, ni recevoir en paramètre un objet dont le type est celui de la classe dans laquelle est déclarée la méthode

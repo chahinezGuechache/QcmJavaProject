@@ -1,0 +1,14 @@
+public static void switch (int a, int b)
+{
+    int tmp = a;
+    a = b;
+    b = tmp;
+ System.out.println (a + '/' + b); // (1)
+}
+ public static void main (String[] args)
+{
+    int a = 9;
+    int b = 18;
+    switch (a, b);
+    System.out.println (a + '/' + b); // (2)
+}

@@ -1,0 +1,4 @@
+MobilePhoneIF phone = new MobilePhoneIF();
+MobilePhoneIF phone = new Nokia3310();
+Nokia3310 phone = new Nokia3310();
+Aucune des instructions n'est correcte

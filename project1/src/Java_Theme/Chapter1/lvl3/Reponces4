@@ -1,0 +1,4 @@
+La ligne 7 affiche [premier, troisième, cinquième, second, quatrième]
+La ligne 1 ne compile pas, on a oublié de définir la taille de liste
+La ligne 5 provoque une erreur d'exécution, le tableau ne contenant que trois éléments, on ne peut qu'insérer aux positions 0, 1 ou 2
+La ligne 7 affiche [premier, cinquième, troisième, second, quatrième]

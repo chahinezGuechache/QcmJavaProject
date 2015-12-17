@@ -1,0 +1,4 @@
+Cette ligne contient une instruction
+Cette ligne contient un commentaire
+Cette ligne signifie que l'on souhaite invoquer la méthode Hello world de l'objetSystem.out.println
+Cette ligne signifie que l'on souhaite invoquer la méthode out.println de l'objetSystem

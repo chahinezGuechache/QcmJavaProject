@@ -1,0 +1,4 @@
+Que va afficher à la console le code suivant ?
+String name;
+int longueur = name.length();
+System.out.println ("Longueur de la chaine " + name + " : " + longueur);

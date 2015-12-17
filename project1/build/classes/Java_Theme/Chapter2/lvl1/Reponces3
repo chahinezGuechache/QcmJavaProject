@@ -1,0 +1,4 @@
+int jour;
+declare(type int) : jour;
+dim jour as integer;
+jour = new int;

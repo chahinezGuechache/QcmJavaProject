@@ -1,0 +1,24 @@
+Que va afficher le programme suivant à la console ? 
+public class Computer
+{
+    public static int add (int a, int b)
+    {
+        return a + b;
+    }
+}
+public class SuperComputer extends Computer
+{
+    public static int add (int a, int b)
+    {
+        return 0;
+    }
+}
+public class Test
+{
+    public static void main (String[] args)
+    {
+        Computer pc = new SuperComputer();
+        int sum = pc.add (9, 5);
+        System.out.println (sum);
+    }
+}

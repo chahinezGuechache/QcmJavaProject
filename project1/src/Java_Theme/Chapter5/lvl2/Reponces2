@@ -1,0 +1,4 @@
+ne sont jamais hérités par les sous-classes
+sont tousjours hérités par les sous-classes
+sont hérités par les sous-classes sion ne déclare pas de constricteur dans la sous-classe
+sont tousjours private

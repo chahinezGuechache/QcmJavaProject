@@ -1,0 +1,4 @@
+L'interface Comparable du JDK déclare une méthode qui permet de comparer deux objets afin de créer un ordre total
+(1), mavariable ne peut contenir que des instances de l'interfaceMonInterface
+Étant donné qu'une classe peut implémenter plusieurs interfaces, on peut créer des variables dites multi-type 
+il n'existe pas des variables de type énuméré

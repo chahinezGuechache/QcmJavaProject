@@ -1,0 +1,4 @@
+int[] t = new int[5];
+Array t = new Array ("int", 5);
+int t = new int[5];
+Array t = new int[5]

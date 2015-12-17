@@ -1,0 +1,4 @@
+Je veux convertir le Integer en Double, comment m'y prendre ? 
+Double d = 200.0; 
+Integer i = 100; 
+d = i;

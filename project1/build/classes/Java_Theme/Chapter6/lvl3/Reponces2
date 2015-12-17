@@ -1,0 +1,4 @@
+Math.sin (1);
+Math m = new Math(); m.sin (1);
+new Math().sin (1);
+Math.static.sin (1);

@@ -1,0 +1,4 @@
+Le corps d'une classe contient des déclaration de variables
+Toutes les classes doivent contenir une méthode public static void main (String[] args)
+Le corps d'une classe contient autre chose que des déclarations de méthodes ou de variables
+Le corps d'une classe ne contient pas des déclaration de variables

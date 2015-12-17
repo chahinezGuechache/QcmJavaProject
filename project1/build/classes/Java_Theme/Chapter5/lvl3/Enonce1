@@ -1,0 +1,6 @@
+Choisissez la bonne correction de ce morceau de code :
+class Ex1a {
+   private int a;
+   public Ex1a() { System.out.println(a); }
+   public Ex1a(int a) { this.a = a; this(); }
+}

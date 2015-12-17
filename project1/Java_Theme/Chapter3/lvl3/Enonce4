@@ -1,0 +1,27 @@
+Soit les instructions Manager m = new Manager (1000);m.raiseSalary (10);. Quelle est la valeur de la variable d'instance salary de l'objet référencé par m ? 
+ public class Employee
+{
+    protected int salary;
+    public Employee (int salary)
+    {
+        this.salary = salary;
+    }
+    public final void raiseSalary (int percent)
+    {
+        salary += salary * percent;
+    }
+}
+public class Manager extends Employee
+{
+    public Manager (int salary)
+    {
+        super (salary);
+    }
+    public void raiseSalary (int percent)
+    {
+        super.raiseSalary (percent);
+        salary += 200;
+    }
+}
+
+ 

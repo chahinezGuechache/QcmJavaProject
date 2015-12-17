@@ -1,0 +1,3 @@
+Que manque-t'il pour que cette déclaration de méthode compile ? 
+public somme (int a, int b) { return a + b;}
+

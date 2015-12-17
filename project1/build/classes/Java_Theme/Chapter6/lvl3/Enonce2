@@ -1,0 +1,2 @@
+La méthode dont la signature est donnée ci-dessous se trouve dans la classe Math, comment faire pour calculer le sinus de 1 radian ?
+public static double sin (double angle);

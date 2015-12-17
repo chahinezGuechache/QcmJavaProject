@@ -1,0 +1,4 @@
+On peut avoir plusieurs méthodes avec le même nom mais des paramètres de types différents
+On peut avoir plusieurs méthodes avec le même nom, avec des paramètres de même types, mais de noms différents
+On peut avoir plusieurs méthodes avec le même nom mais des types de retour différents
+On ne peut pas surcharger les constructeurs, il ne peut y avoir qu'un seul constructeur par classe

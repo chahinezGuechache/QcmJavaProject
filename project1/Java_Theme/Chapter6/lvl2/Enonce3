@@ -1,0 +1,25 @@
+Que va afficher à la console le programme suivant ?
+public class Nombre
+{
+    private int valeur;
+    public Nombre (int valeur)
+    {
+        this.valeur = valeur;
+    }
+    public void change (int nouvellevaleur)
+    {
+        valeur = nouvellevaleur;
+    }
+   public String toString()
+    {
+        return String.valueOf (valeur);
+    }
+    public static void main (String[] args)
+    {
+        Nombre n1, n2;
+        n1 = new Nombre (8);
+        n2 = n1;
+        n1.change (9);
+        System.out.println (n2);
+    }
+}

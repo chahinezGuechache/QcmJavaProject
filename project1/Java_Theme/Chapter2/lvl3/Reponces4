@@ -1,0 +1,4 @@
+On peut ajouter des espaces entre les mots de base (ex: int valeur = 3)
+On est obligé de mettre une instruction par ligne dans un fichier *.java
+On peut séparer les mots réservés par des espaces (ex: pu b lic)
+Le nom de variable variablecontenantlejour est conseillé

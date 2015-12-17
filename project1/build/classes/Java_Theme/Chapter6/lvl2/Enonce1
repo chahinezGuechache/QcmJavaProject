@@ -1,0 +1,10 @@
+Dice dice1 = new Dice();
+Dice dice2 = new Dice();
+ 
+dice1.flip();
+dice2.flip();
+ 
+dice2 = dice1;
+ 
+System.out.println (dice1.equals (dice2)); // (1)
+System.out.println (dice1.getFace() == dice2.getFace()); // (2)

@@ -1,0 +1,4 @@
+tab[2] = new String ("Hello");
+tab[3] = new Mammal();
+tab[1] = new Animal();
+tab[2] = new String (1523);

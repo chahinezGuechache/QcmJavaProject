@@ -1,0 +1,23 @@
+Qu'affiche ce programme :
+class A {
+       void faire() {
+       System.out.println("niveau a");
+    }
+}
+class B extends A {
+        void faire() {
+ System.out.println("niveau b");
+ }
+}
+class C extends B {}
+class QuelleMethode {
+  public static void main(String[] argv) {
+ A a;
+ a = new A(); 
+ a.faire(); 
+ a = new B(); 
+ a.faire(); 
+ a = new C(); 
+ a.faire(); 
+ }
+}
